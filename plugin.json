@@ -1,0 +1,15 @@
+{
+  "id": "getfucked",
+  "name": "getfucked",
+  "description": "Fully needed Unifier Plugin.",
+  "version": "v1.0.0",
+  "release": 1,
+  "minimum": 36,
+  "requirements": [],
+  "shutdown": false,
+  "modules": [
+    "getfucked.py"
+  ],
+  "utils": [
+  ]
+}
